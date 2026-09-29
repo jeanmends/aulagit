@@ -1,1 +1,1 @@
-Simple Storage Service - Armazenamento
+Simple Storage Service - Armazenamento de Objetos
